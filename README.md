@@ -1,3 +1,3 @@
-# pet_cemetary
-# in god we trust
-# the rest we test
+pet_cemetary
+in god we trust
+the rest we test
