@@ -3,7 +3,7 @@ import os
 
 
 def arguments_parser():
-    parser = argparse.ArgumentParser(prog="File name clipper v 1.2",
+    parser = argparse.ArgumentParser(prog="File name clipper v 1.2.0",
                                      description="Cкрипт оценивает размеры имен файлов в указанной директории, "
                                                  "сравнивает их с указанным пользователем "
                                                  "максимальным размером имени файла "
